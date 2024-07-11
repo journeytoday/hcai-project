@@ -9,7 +9,7 @@ import Link from 'next/link';
 
 const icons = [
   {
-    path: 'https://github.com/journeytoday/hcai-project',
+    path: 'https://github.com/journeytoday/hcai-project/',
     name: <RiGithubFill />,
   },
 ];
