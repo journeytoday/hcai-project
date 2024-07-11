@@ -22,7 +22,7 @@ const projectData = [
     description:
       'ChatGPT was the most biased LLM',
     link: 'https://app.powerbi.com/groups/me/reports/09a72f1b-3f4e-4a24-ad5c-dc3657563646/678e9e5b9e63b9ac02dd?experience=power-bi',
-    github: '/',
+    github: 'https://github.com/journeytoday/hcai-project/',
   },
   {
     category: 'Insights',
@@ -30,7 +30,7 @@ const projectData = [
     description:
       'CoPilot was the least biased LLM.',
     link: 'https://app.powerbi.com/groups/me/reports/09a72f1b-3f4e-4a24-ad5c-dc3657563646/678e9e5b9e63b9ac02dd?experience=power-bi',
-    github: '/',
+    github: 'https://github.com/journeytoday/hcai-project/',
   },
   {
     category: 'Insights',
@@ -38,7 +38,7 @@ const projectData = [
     description:
       'In terms of ethnicity, ChatGPT leads with 182, closely followed by Gemini at 156. Regarding age, ChatGPT also holds the top position with 146, narrowly trailed by Claude at 141.',
     link: 'https://app.powerbi.com/groups/me/reports/09a72f1b-3f4e-4a24-ad5c-dc3657563646/678e9e5b9e63b9ac02dd?experience=power-bi',
-    github: '/',
+    github: 'https://github.com/journeytoday/hcai-project/',
   },
   {
     category: 'Insights',
@@ -46,7 +46,7 @@ const projectData = [
     description:
       'Men were more likely to feel there was a bias in the answers than women',
     link: 'https://app.powerbi.com/groups/me/reports/09a72f1b-3f4e-4a24-ad5c-dc3657563646/678e9e5b9e63b9ac02dd?experience=power-bi',
-    github: '/',
+    github: 'https://github.com/journeytoday/hcai-project/',
   },
   {
     category: 'Insights',
@@ -54,7 +54,7 @@ const projectData = [
     description:
       '72.97% of our response base was male while 27.03% was female among them 54.05% were working professionals while 45.95% were students.',
     link: 'https://app.powerbi.com/groups/me/reports/09a72f1b-3f4e-4a24-ad5c-dc3657563646/678e9e5b9e63b9ac02dd?experience=power-bi',
-    github: '/',
+    github: 'https://github.com/journeytoday/hcai-project/',
   },
 ];
 
