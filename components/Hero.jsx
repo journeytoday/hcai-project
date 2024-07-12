@@ -25,7 +25,7 @@ const Hero = () => {
             <div className='text-sm uppercase font-semibold mb-4 text-primary tracking-[4px]'>
               Human Centered AI
             </div>
-            <h1 className='h1 mb-4'>Bias in Large Learning Models for Education Assistance</h1>
+            <h2 className='h1 mb-4'>Bias in Large Learning Models for Education Assistance</h2>
             <p className='subtitle max-w-[490px] mx-auto xl:mx-0'>
             In this project, we looked at bias in LLMs designed for educational applications. We were particularly interested in the extent and nature of the biases perceived within responses from different models. 
             </p>
